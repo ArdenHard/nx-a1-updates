@@ -1,17 +1,17 @@
 {
   "product": "NX-A1",
   "channel": "stable",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "hardware_revision": "RA",
   "minimum_updater_version": "1.0.0",
-  "published_at": "2026-08-11T04:38:15Z",
-  "package_url": "https://raw.githubusercontent.com/ArdenHard/nx-a1-updates/main/release-assets/NX-A1_v0.9.0_RA_ota.tar.gz.age",
-  "package_signature_url": "https://raw.githubusercontent.com/ArdenHard/nx-a1-updates/main/release-assets/NX-A1_v0.9.0_RA_ota.tar.gz.age.minisig",
-  "package_sha256": "72e7076b8b9918fdea15078c037e84f05cd0f7fdef14144e327dcfda30bace4d",
-  "package_size": 45238,
+  "published_at": "2026-08-11T20:54:47Z",
+  "package_url": "https://raw.githubusercontent.com/ArdenHard/nx-a1-updates/main/release-assets/NX-A1_v0.9.1_RA_ota.tar.gz.age",
+  "package_signature_url": "https://raw.githubusercontent.com/ArdenHard/nx-a1-updates/main/release-assets/NX-A1_v0.9.1_RA_ota.tar.gz.age.minisig",
+  "package_sha256": "392e9145af4ba4ec6baad8938f10c4c02ba9732cae5ec49aaa598cab0e48a9f5",
+  "package_size": 49643,
   "encrypted": true,
   "encryption": "age",
   "release_notes": [
-    "NX-A1 v0.9.0 RA OTA canary validation release."
+    "NX-A1 v0.9.1 RA OTA canary validation release."
   ]
 }
