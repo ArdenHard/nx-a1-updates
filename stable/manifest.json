@@ -3,18 +3,15 @@
   "channel": "stable",
   "version": "0.9.3",
   "hardware_revision": "RA",
-  "ota_schema": 2,
-  "host_payload_schema": 1,
-  "host_infra_version": "2.0.0",
-  "minimum_updater_version": "2.0.0",
-  "published_at": "2026-08-12T02:46:28Z",
+  "minimum_updater_version": "1.0.0",
+  "published_at": "2026-08-12T03:39:00Z",
   "package_url": "https://raw.githubusercontent.com/ArdenHard/nx-a1-updates/main/release-assets/NX-A1_v0.9.3_RA_ota.tar.gz.age",
   "package_signature_url": "https://raw.githubusercontent.com/ArdenHard/nx-a1-updates/main/release-assets/NX-A1_v0.9.3_RA_ota.tar.gz.age.minisig",
-  "package_sha256": "ee624f1ccb936f008a9f7a9a97e7ae78115c5c9a533a40c948156121b9d83426",
-  "package_size": 67676,
+  "package_sha256": "2dfb5a416e2855ca7e0a5613a80d8a0969823b0c483cc8925b6e73adb467f3b8",
+  "package_size": 51540,
   "encrypted": true,
   "encryption": "age",
   "release_notes": [
-    "ROCO v0.9.3 RA schema-2 OTA canary."
+    "NX-A1 v0.9.3 RA OTA canary validation release."
   ]
 }
