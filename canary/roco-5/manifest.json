@@ -1,0 +1,17 @@
+{
+  "product": "NX-A1",
+  "channel": "stable",
+  "version": "0.9.4",
+  "hardware_revision": "RA",
+  "minimum_updater_version": "1.0.0",
+  "published_at": "2026-09-06T02:42:04Z",
+  "package_url": "https://raw.githubusercontent.com/ArdenHard/nx-a1-updates/main/canary/roco-5/release-assets/NX-A1_v0.9.4_RA_ota.tar.gz.age",
+  "package_signature_url": "https://raw.githubusercontent.com/ArdenHard/nx-a1-updates/main/canary/roco-5/release-assets/NX-A1_v0.9.4_RA_ota.tar.gz.age.minisig",
+  "package_sha256": "843b3937dcce7f0e46d2788bba0d4da9637321d957d5d44231c92118e315c142",
+  "package_size": 54296,
+  "encrypted": true,
+  "encryption": "age",
+  "release_notes": [
+    "NX-A1 v0.9.4 RA OTA canary validation release."
+  ]
+}
