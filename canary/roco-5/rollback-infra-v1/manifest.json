@@ -1,0 +1,17 @@
+{
+  "product": "NX-A1",
+  "hardware_revision": "RA",
+  "artifact_type": "ota-infrastructure-bootstrap",
+  "bootstrap_schema": 1,
+  "installer_commit": "7e95a7ce157f082eecaf1f59775a8622e9543bfd",
+  "payload_commit": "d98e9abb3b81d560563d0b2cd86bb26fbbc913b3",
+  "package_file": "ROCO_OTA_ROLLBACK_UPGRADE_v1.tar.gz.age",
+  "package_sha256": "ca0289563f8677273d49b8336e8cdb255709412cc66a0d948080643060db4cb7",
+  "package_size": 21941,
+  "recipient_count": 1,
+  "host_destinations": [
+    "/opt/nx-a1-ota/executor/nxa1_host_update_executor.py",
+    "/opt/nx-a1-ota/nxa1_update.py",
+    "/opt/nx-a1-ota/agent/nxa1_update.py"
+  ]
+}
